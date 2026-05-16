@@ -56,6 +56,5 @@ The analysis helps identify high-demand neighbourhoods, customer accommodation p
 
 ## Project Files
 - Python Notebook (.ipynb)
-- Dataset Files
 - Visualization Screenshots
 - README.md
